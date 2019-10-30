@@ -1,0 +1,4 @@
+#Wed Oct 30 18:46:16 BRST 2019
+base.0=C\:\\Users\\mauricio.souza\\Documents\\mine\\02- FLUTTER\\comparador\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
